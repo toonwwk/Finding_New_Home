@@ -10,3 +10,6 @@ a tomb in Chinese belief booking program
 # Installation
 $ pip install -r requirements.txt
 
+# How to compile
+- open the floder location on cmd
+- type STARTER.py to run the program
