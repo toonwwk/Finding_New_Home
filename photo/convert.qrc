@@ -1,0 +1,52 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>REALstart.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>bg4.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>comfirmbg.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>bg1.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>1.png</file>
+    <file>2.jpg</file>
+    <file>redbg2.png</file>
+    <file>startbg.png</file>
+    <file>fade2.png</file>
+    <file>redbg.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>4.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>tombconfirm.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>tombB.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>tomb1.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>tombA.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>tomb1.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>buyatomb.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>tombstones.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>tomb2.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>info.png</file>
+  </qresource>
+</RCC>
